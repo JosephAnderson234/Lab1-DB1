@@ -1,0 +1,1 @@
+# Solucionaria de nuestro laboratorio de BD 2
